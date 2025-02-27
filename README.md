@@ -18,7 +18,7 @@ Description: The development of high-level programming languages like FORTRAN (1
 2. The Software Crisis and the Birth of Software Engineering (1968)
 Description: The term "software engineering" was first coined at the NATO Software Engineering Conference in 1968. This conference was convened in response to the so-called "software crisis," where the complexity of software projects was leading to cost overruns, missed deadlines, and unreliable products.
 3. The Rise of Agile Methodologies (2001)
-Description: The Agile Manifesto, published in 2001, introduced a set of principles for software development that prioritized flexibility, customer collaboration, and iterative progress. Agile methodologies, such as Scrum and Extreme Programming (XP), contrasted sharply with the rigid, linear approaches of traditional models like the Waterfall model.
+Description: The Agile Manifesto, published in 2001, introduced a set of principles for software development that prioritized flexibility, customer collaboration, and iterative progress. Agile methodologies, such as Scrum and Extreme Programming, contrasted sharply with the rigid, linear approaches of traditional models like the Waterfall model.
 List and briefly explain the phases of the Software Development Life Cycle.
 Planning
 Involves brainstorming, analyzing the current system, and establishing a timeline and budget 
